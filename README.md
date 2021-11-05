@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a self taught programer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at </p> 
-[UTM](https://www.utm.ro/en/faculty-of-informatics/)
+<p>I'm a self taught programer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at [UTM](https://www.utm.ro/en/faculty-of-informatics/) </p> 
+
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 #### Technologies: 

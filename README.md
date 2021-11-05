@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>I'm a self taught programer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at </p> 
 [UTM](https://www.utm.ro/en/faculty-of-informatics/)
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 #### Technologies: 
 <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">

@@ -22,4 +22,5 @@ Here are some ideas to get you started:
                 <h4>Design principles:</h4> 
                 <h5 class="design-principles">dividing the page into web components | designing for different screens | fonts & font famylies | color theory & web colors | making good use of white spaces | resizing images for web</h5>
                 
-                https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
+              ![Mic Logo](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+              https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white

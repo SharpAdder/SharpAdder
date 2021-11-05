@@ -15,24 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a self taught programer with a passion for learning and coding.</p>
+<p>I'm a self taught programer with a passion for learning and coding. </p>
 
-<i class="fas fa-edit"></i>
-                <h3>Web design</h3>
-                <h4>Design principles:</h4> 
-                <h5 class="design-principles">dividing the page into web components | designing for different screens | fonts & font famylies | color theory & web colors | making good use of white spaces | resizing images for web</h5>
-                
-<!--               [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white.svg)](https://shields.io/) -->
-          
-              
-<!--              
- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-    https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
- 
--->
 
-### My learning journey
+### Technologies: 
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+### My learning journey:
 
  <img src = "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"> <img src = "https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white"> <img src = "https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"> <img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"> <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 

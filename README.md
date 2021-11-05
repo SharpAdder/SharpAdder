@@ -31,5 +31,5 @@ Here are some ideas to get you started:
  
 -->
 
-<img src = https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white>
+<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 

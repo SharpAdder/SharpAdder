@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p>I'm a self taught programer with a passion for learning and coding.</p>
+
+<i class="fas fa-edit"></i>
+                <h3>Web design</h3>
+                <h4>Design principles:</h4> 
+                <h5 class="design-principles">dividing the page into web components | designing for different screens | fonts & font famylies | color theory & web colors | making good use of white spaces | resizing images for web</h5>

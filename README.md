@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there!
 
 <!--
 **SharpAdder/SharpAdder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a self-taught programmer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at </p> 
+<p>I'm Adina, a self-taught programmer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at </p> 
 
 [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/) 
+
+ 🖖 Stay safe!
 
 ![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 

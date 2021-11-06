@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/) 
 
+![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 #### Technologies: 

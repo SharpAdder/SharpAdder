@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Adina, a self-taught programmer with a passion for learning and coding and since October 2021 I started the Faculty of Informatics at </p> 
+I'm Adina, a self-taught programmer with a passion for learning and coding.</br>
+Since October 2021 I started Informatics at [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/) </br>
+I believe that knowledge is power and knowledge is meant to be shared. </br>
+Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
 
-[Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/) 
 
  🖖 Stay safe!
 

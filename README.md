@@ -21,7 +21,7 @@ I believe that knowledge is power and knowledge is meant to be shared. </br>
 Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
 
 
- 🖖 Stay safe!
+ 🖖 Stay safe[!](https://github.com/SharpAdder/Evernote/blob/main/inside%20wiki.md)
 
 ![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
@@ -33,4 +33,4 @@ Have a look over this [list of online loot](https://github.com/SharpAdder/public
 
  <img src = "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"> <img src = "https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white"> <img src = "https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"> <img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"> <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 
-[inside wiki](https://github.com/SharpAdder/Evernote/blob/main/inside%20wiki.md)
+

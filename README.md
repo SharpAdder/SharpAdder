@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm Adina, a self-taught programmer with a passion for learning and coding.</br>
-Since October 2021 I started Informatics at [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/) </br>
+Since October 2021 I started Informatics at [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/). </br>
+This is a great opportunity to make new contacts, share ideas and be more organized. </br>
+From time to time I like to challange miself with some [hackerRank problems](https://www.hackerrank.com/dashboard) </br>
 I believe that knowledge is power and knowledge is meant to be shared. </br>
 Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
 

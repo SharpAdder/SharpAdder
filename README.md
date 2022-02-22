@@ -20,7 +20,7 @@ Looking forward to gaining new skills and making a career change. </br>
 
 Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
 #### Learning platforms:
-Check out these platforms: [coursera](https://www.coursera.org) | [udacity](https://www.udacity.com) |  [udemy](https://www.udemy.com)
+💻Check out these platforms: [coursera](https://www.coursera.org) | [udacity](https://www.udacity.com) |  [udemy](https://www.udemy.com)
 
 
  🖖 Stay safe[!](https://github.com/SharpAdder/Evernote/blob/main/inside%20wiki.md)

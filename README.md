@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there
 
 <!--
 **SharpAdder/SharpAdder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adina, a self-taught programmer with a passion for learning and coding.</br>
-Since October 2021 I started Informatics at [Titu Maiorescu Univesity](https://www.utm.ro/en/faculty-of-informatics/). </br>
-This is a great opportunity to make new contacts, share ideas and be more organized. </br>
-From time to time I like to challange miself with some [hackerRank problems](https://www.hackerrank.com/dashboard) </br>
-I believe that knowledge is power and knowledge is meant to be shared. </br>
+I am currently working as Account Assistant and studying for a bachelor's degree in computer science, at [Titu Maiorescu University of Bucharest](https://www.utm.ro/en/faculty-of-informatics/). </br>
+Looking forward to gainig new skills and making a career change. </br>
+
 Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
+#### Learning platforms:
+Check out these platforms: [coursera](https://www.coursera.org) | [udacity](https://www.udacity.com) |  [udemy](https://www.udemy.com)
 
 
  🖖 Stay safe[!](https://github.com/SharpAdder/Evernote/blob/main/inside%20wiki.md)
@@ -28,11 +28,8 @@ Have a look over this [list of online loot](https://github.com/SharpAdder/public
 ![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
+
 #### Technologies: 
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-#### My learning journey:
-
- <img src = "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"> <img src = "https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white"> <img src = "https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"> <img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"> <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 
 

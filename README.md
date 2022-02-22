@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am currently working as Account Assistant and studying for a bachelor's degree in computer science, at [Titu Maiorescu University of Bucharest](https://www.utm.ro/en/faculty-of-informatics/). </br>
-Looking forward to gainig new skills and making a career change. </br>
+Looking forward to gaining new skills and making a career change. </br>
 
 Have a look over this [list of online loot](https://github.com/SharpAdder/public-link-list/blob/main/README.md) ⚡
 #### Learning platforms:

@@ -21,7 +21,7 @@ I am a CS student working as a QA Technician.
 
  [Table of Contents](https://github.com/SharpAdder/repo-table-of-contents/blob/main/README.md)
 
-Have a look over this [list](https://github.com/SharpAdder/public-link-list/blob/main/README.md) of tutorials and tools. ⚡
+<!-- Have a look over this [list](https://github.com/SharpAdder/public-link-list/blob/main/README.md) of tutorials and tools. ⚡ -->
 #### Learning platforms:
 💻 [coursera](https://www.coursera.org) | [udacity](https://www.udacity.com) |  [udemy](https://www.udemy.com)
 

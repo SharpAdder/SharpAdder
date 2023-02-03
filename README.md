@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a CS student working as a QA Technician. 
-
+I am a CS student looking for new opportunities.
 <!-- [3D repo view 2021](https://skyline.github.com/SharpAdder/2021)  -->
 
  [Table of Contents](https://github.com/SharpAdder/repo-table-of-contents/blob/main/README.md)

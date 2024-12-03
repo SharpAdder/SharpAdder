@@ -21,14 +21,14 @@ I'm Ade, a tech enthusiast exploring the world of development and cybersecurity.
 💻 About Me:
 
 🌱 Currently learning Python and preparing for the ISTQB certification to grow my skills in software testing and development. </br>
-🕵️‍♂️ I enjoy solving cybersecurity challenges on TryHackMe to build my knowledge and skills in the field.
-🛠️ Working on small projects (JavaScript, HTML, CSS, Python and other languages).
+🕵️‍♂️ I enjoy solving cybersecurity challenges on TryHackMe to build my knowledge and skills in the field. </br>
+🛠️ Working on small projects (JavaScript, HTML, CSS, Python and other languages). </br>
 
 📌 What You'll Find Here:
 
-🚀 Personal projects and experiments as I learn and grow.
-📂 Repositories showcasing beginner-friendly web development projects and tools.
-🌐 A mix of ideas and resources inspired by my interests in coding, cybersecurity, and testing as well as some resources.
+🚀 Personal projects and experiments as I learn and grow. </br>
+📂 Repositories showcasing beginner-friendly web development projects and tools. </br>
+🌐 A mix of ideas and resources inspired by my interests in coding, cybersecurity, and testing as well as some resources.</br>
 <!-- [3D repo view 2021](https://skyline.github.com/SharpAdder/2021)  -->
 
  [Table of Contents](https://github.com/SharpAdder/repo-table-of-contents/blob/main/README.md)

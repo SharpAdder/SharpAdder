@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adina, a CS student looking for new opportunities.
+👋 Welcome to My GitHub!
+I'm Ade, a tech enthusiast exploring the world of development and cybersecurity.
+
+💻 About Me:
+
+🌱 Currently learning Python and preparing for the ISTQB certification to grow my skills in software testing and development.
+🕵️‍♂️ I enjoy solving cybersecurity challenges on TryHackMe to build my knowledge and skills in the field.
+🛠️ Working on small projects (JavaScript, HTML, CSS, Python and other languages).
+
+📌 What You'll Find Here:
+
+🚀 Personal projects and experiments as I learn and grow.
+📂 Repositories showcasing beginner-friendly web development projects and tools.
+🌐 A mix of ideas and resources inspired by my interests in coding, cybersecurity, and testing as well as some resources.
 <!-- [3D repo view 2021](https://skyline.github.com/SharpAdder/2021)  -->
 
  [Table of Contents](https://github.com/SharpAdder/repo-table-of-contents/blob/main/README.md)
@@ -27,7 +40,7 @@ I'm Adina, a CS student looking for new opportunities.
 
  🖖 Stay safe[!](https://github.com/SharpAdder/Evernote/blob/main/inside%20wiki.md)
 
-<!-- ![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  -->
+![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
  
 
 

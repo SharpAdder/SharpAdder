@@ -20,7 +20,7 @@ I'm Ade, a tech enthusiast exploring the world of development and cybersecurity.
 
 💻 About Me:
 
-🌱 Currently learning Python and preparing for the ISTQB certification to grow my skills in software testing and development.
+🌱 Currently learning Python and preparing for the ISTQB certification to grow my skills in software testing and development. </br>
 🕵️‍♂️ I enjoy solving cybersecurity challenges on TryHackMe to build my knowledge and skills in the field.
 🛠️ Working on small projects (JavaScript, HTML, CSS, Python and other languages).
 
